@@ -26,19 +26,19 @@ Software Development Life Cycle (SDLC)
 
 ## 1️⃣ SDLC Definition
 
-![SDLC Definition](02-sdlc-definition.jpeg)
+![SDLC Definition](01-sdlc-definition.jpeg)
 
 ---
 
 ## 2️⃣ SDLC Phases
 
-![SDLC Phases](03-sdlc-phases.jpeg)
+![SDLC Phases](02-sdlc-phases.jpeg)
 
 ---
 
 ## 3️⃣ SDLC Diagram
 
-![SDLC Diagram](04-sdlc-diagram.jpeg)
+![SDLC Diagram](03-sdlc-diagram.jpeg)
 
 ---
 
