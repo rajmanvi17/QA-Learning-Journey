@@ -6,7 +6,8 @@ This repository documents my journey of learning Manual Testing, API Testing, SQ
 
 ## Learning Progress
 
-- [ ] Software Testing Basics
+
+- [x] Software Testing Basics ✅
 - [ ] SDLC
 - [ ] STLC
 - [ ] Testing Types
@@ -22,5 +23,14 @@ This repository documents my journey of learning Manual Testing, API Testing, SQ
 
 Become a skilled QA Engineer while documenting everything I learn.
 
+## 📈 Current Status
+
+**Day 01 Completed ✅**
+
+Current Topic:
+- Software Testing Basics
+
+Next Topic:
+- SDLC
 ---
 Learning in Public 📚
