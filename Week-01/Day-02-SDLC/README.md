@@ -24,27 +24,21 @@ Software Development Life Cycle (SDLC)
 
 # 📝 My Notes
 
-## 1️⃣ Introduction to SDLC
+## 1️⃣ SDLC Definition
 
-![Introduction to SDLC](01-sdlc-introduction.jpg)
-
----
-
-## 2️⃣ Need & Importance of SDLC
-
-![Need of SDLC](02-sdlc-importance.jpg)
+![SDLC Definition](02-sdlc-definition.jpeg)
 
 ---
 
-## 3️⃣ SDLC Phases
+## 2️⃣ SDLC Phases
 
-![SDLC Phases](03-sdlc-phases.jpg)
+![SDLC Phases](03-sdlc-phases.jpeg)
 
 ---
 
-## 4️⃣ SDLC Diagram
+## 3️⃣ SDLC Diagram
 
-![SDLC Diagram](04-sdlc-diagram.jpg)
+![SDLC Diagram](04-sdlc-diagram.jpeg)
 
 ---
 
