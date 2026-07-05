@@ -1,3 +1,6 @@
+![Manual Testing](https://img.shields.io/badge/Manual%20Testing-In%20Progress-blue)
+![GitHub](https://img.shields.io/badge/Learning-Public-green)
+
 # QA Learning Journey 🎯
 
 Hi, I'm Manvi Raj.
