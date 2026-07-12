@@ -16,7 +16,7 @@ This repository documents my journey of learning Manual Testing, API Testing, SQ
 - [x] SDLC v/s STLC ✅
 - [x] Testing Types  ✅
 - [x] Testing Levels ✅
-- [ ] Test Scenario
+- [x] Test Scenario ✅
 - [ ] Test Cases
 - [ ] Bug Reporting
 - [ ] SQL
@@ -29,12 +29,12 @@ Become a skilled QA Engineer while documenting everything I learn.
 
 ## 📈 Current Status
 
-**Day 06 Completed ✅**
+**Day 08 Completed ✅**
 
 Current Topic:
-- Testing levels
+- Test Scenario
 
 Next Topic:
-- Testing scenario
+- Test Case
 ---
 Learning in Public 📚
