@@ -18,7 +18,7 @@ This repository documents my journey of learning Manual Testing, API Testing, SQ
 - [x] Testing Levels ✅
 - [x] Test Scenario ✅
 - [x] Test Cases ✅
-- [ ] Bug Reporting  
+- [x] Bug Reporting  ✅
 - [ ] SQL
 - [ ] API Testing
 - [ ] Selenium
@@ -29,12 +29,12 @@ Become a skilled QA Engineer while documenting everything I learn.
 
 ## 📈 Current Status
 
-**Day 10 Completed ✅**
+**Day 11 Completed ✅**
 
 Current Topic:
-- Bug Lifecycle
+- Bug Reporting
 
 Next Topic:
-- Bug Reporting
+- SQL
 ---
 Learning in Public 📚
