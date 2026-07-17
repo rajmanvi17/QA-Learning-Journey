@@ -1,66 +1,60 @@
-# Day 11 - Bug Report (Bug Reporting)
+# Day 11 - Bug Report
 
 ## 📅 Date
 15 July 2026
 
 ## 🎯 Topic
-Bug Report (Bug Reporting)
+Bug Report
 
 ## 📚 What I Learned
 
+Today I learned how QA Engineers create professional Bug Reports that help developers identify and fix software defects efficiently.
+
+### Topics Covered
+
 - What is a Bug Report?
-- Why Bug Reporting is Important
 - Standard Bug Report Format
 - Bug ID
 - Title
 - Module
 - Environment
-- Severity
-- Priority
+- Severity vs Priority
 - Preconditions
 - Steps to Reproduce
 - Expected Result
 - Actual Result
+- Status
+- Assigned To
 - Attachments
 - Characteristics of a Good Bug Report
-- Common Mistakes
-- Interview Questions
+- Common Reporting Mistakes
 
 ---
 
-# 📝 My Notes
+## 📸 Notes
 
-## 1️⃣ Introduction to Bug Reporting
+### Bug Report Overview
+![Bug Report Overview](01-bug-report-overview.jpeg)
 
-![Introduction to Bug Reporting](01-bug-report-introduction.jpeg)
+### Bug Report Fields
+![Bug Report Fields](02-bug-report-fields.jpeg)
 
----
+### Steps to Reproduce
+![Steps to Reproduce](03-bug-report-steps-to-reproduce.jpeg)
 
-## 2️⃣ Standard Bug Report Format
+### Sample Bug Report
+![Sample Bug Report](04-sample-bug-report.jpeg)
 
-![Standard Bug Report Format](02-bug-report-format.jpeg)
-
----
-
-## 3️⃣ Sample Bug Report
-
-![Sample Bug Report](03-sample-bug-report.jpeg)
-
----
-
-## 4️⃣ Characteristics of a Good Bug Report
-
-![Characteristics of a Good Bug Report](04-good-bug-report.jpeg)
-
+### Best Practices & Common Mistakes
+![Bug Report Best Practices](05-bug-report-best-practices.jpeg)
 ---
 
 ## 🎯 Learning Outcome
 
-Today, I learned how QA Engineers write professional Bug Reports that help developers understand and fix defects efficiently.
-
-I understood the standard structure of a Bug Report, including Bug ID, Title, Environment, Severity, Priority, Steps to Reproduce, Expected Result, Actual Result, and Attachments.
-
-I also learned the qualities of a good Bug Report and common mistakes that should be avoided while reporting bugs in real-world software projects.
+- Understood the purpose of Bug Reports.
+- Learned the standard bug reporting format.
+- Practiced creating a sample bug report.
+- Learned how to write clear and effective bug reports used in real QA projects.
 
 ---
 
