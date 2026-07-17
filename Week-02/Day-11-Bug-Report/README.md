@@ -34,7 +34,7 @@ Today I learned how QA Engineers create professional Bug Reports that help devel
 ## 📸 Notes
 
 ### Bug Report Overview
-![Bug Report Overview](01-bug-report-overview.jpeg)
+![Bug Report Overview](01-bug-report-introduction.jpeg)
 
 ### Bug Report Fields
 ![Bug Report Fields](02-bug-report-fields.jpeg)
