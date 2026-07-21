@@ -29,12 +29,12 @@ Become a skilled QA Engineer while documenting everything I learn.
 
 ## 📈 Current Status
 
-**Day 11 Completed ✅**
+**Day 12 Completed ✅**
 
 Current Topic:
-- Bug Reporting
+- SQL
 
 Next Topic:
-- SQL
+- API Testing 
 ---
 Learning in Public 📚
