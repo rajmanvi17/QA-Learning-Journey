@@ -1,3 +1,11 @@
+## 📢 Update
+
+Learning is temporarily paused due to personal commitments.
+
+📅 I'll continue updating this repository soon.
+
+Thank you for your patience! 😊
+
 ![Manual Testing](https://img.shields.io/badge/Manual%20Testing-In%20Progress-blue)
 ![GitHub](https://img.shields.io/badge/Learning-Public-green)
 
